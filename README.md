@@ -1,6 +1,25 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C0C0C0&center=true&vCenter=true&width=700&lines=👋+Hola+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
-</p>
+<h1 align="center">
+  <svg width="100%" height="80">
+    <defs>
+      <linearGradient id="rainbow" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#FF0000"/>
+        <stop offset="20%" stop-color="#FF7F00"/>
+        <stop offset="40%" stop-color="#FFFF00"/>
+        <stop offset="60%" stop-color="#00FF00"/>
+        <stop offset="80%" stop-color="#0000FF"/>
+        <stop offset="100%" stop-color="#8B00FF"/>
+      </linearGradient>
+    </defs>
+
+    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle"
+          style="font-size:42px; fill:url(#rainbow); font-weight:bold;">
+      ⚛️ Prashik N Somkuwar
+    </text>
+  </svg>
+</h1>
+
+
+
 
 
 ## 🌌 About Me  
