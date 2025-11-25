@@ -31,7 +31,7 @@
 <img src="./assets/icons/pennylane.jpeg" height="60" width ="86"/>
 <img src="./assets/icons/cirq.png" height="60" width ="86"/>
 <img src="./assets/icons/cuda-q.jpeg" height="80" width ="99"/>
-<img src="./assets/icons/qutip.jpeg" height="70" width ="110"/>
+<img src="./assets/icons/qutip.jpeg" height="67" width ="105"/>
 </p>
 
 
