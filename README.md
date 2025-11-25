@@ -15,7 +15,7 @@
 ## 🌌 About Me  
 
 🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune  
-🔭 Focus Areas: **Quantum Algorithms, QAOA, QML, Shor’s Algorithm, Quantum Walks, QRC**  
+🔭 Focus Areas: **Quantum Algorithms, QAOA, Quantum Machine learning**  
 🧪 Hands-on with **Qiskit, PennyLane, Cirq, CUDA-Q, QuTiP**  
 🌱 Learning **CUDA-Q & Julia**  
 📫 Email: **prashik_s@mt.iitr.ac.in**  
