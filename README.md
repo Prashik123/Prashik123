@@ -53,13 +53,13 @@
 
 <p align="left">
 
-<img src="./assets/icons/python.png" height="65" title="Python" />
-<img src="./assets/icons/cpp.png" height="65" title="C++" />
-<img src="./assets/icons/pytorch.png" height="65" title="PyTorch" />
-<img src="./assets/icons/scikit-learn.png" height="65" title="scikit-learn" />
-<img src="./assets/icons/git.png" height="65" title="Git" />
-<img src="./assets/icons/linux.png" height="65" title="Linux" />
-<img src="./assets/icons/jupyter.png" height="65" title="Jupyter Notebook" />
+<img src="./assets/icons/python.png" height="70" title="Python" />
+<img src="./assets/icons/cpp.png" height="70" title="C++" />
+<img src="./assets/icons/pytorch.png" height="70" title="PyTorch" />
+<img src="./assets/icons/scikit-learn.png" height="70" title="scikit-learn" />
+<img src="./assets/icons/git.png" height="70" title="Git" />
+<img src="./assets/icons/linux.png" height="70" title="Linux" />
+<img src="./assets/icons/jupyter.png" height="70" title="Jupyter Notebook" />
 
 </p>
 
