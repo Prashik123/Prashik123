@@ -1,9 +1,9 @@
-<!-- 🌌 NEON QUANTUM BANNER -->
+<!-- ✨ 3D Rotating Atom Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E7FF&center=true&vCenter=true&width=700&lines=Prashik+N+Somkuwar;Quantum+Computing+Researcher;Quantum+Software+Developer;QAOA+%7C+QML+%7C+Shor's+Algorithm+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time" />
+  <img src="./assets/banner/atom.gif" width="160" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm <strong>Prashik N Somkuwar</strong></h1>
+<h1 align="center" style="font-size: 42px;">⚛️ Prashik N Somkuwar</h1>
 <h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🌌 About Me  
 
 🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune  
-🔭 Focus Areas: **Quantum Algorithms, QAOA, QML, Shor’s Algorithm, Quantum Walks, Quantum Reservoir Computing**  
+🔭 Focus Areas: **Quantum Algorithms, QAOA, QML, Shor’s Algorithm, Quantum Walks, QRC**  
 🧪 Hands-on with **Qiskit, PennyLane, Cirq, CUDA-Q, QuTiP**  
 🌱 Learning **CUDA-Q & Julia**  
 📫 Email: **prashik_s@mt.iitr.ac.in**  
@@ -35,7 +35,7 @@
 ---
 
 # 🧠 Quantum Software Stack  
-*(Dedicated quantum development frameworks — icons aligned)*
+*(Quantum development frameworks — perfectly aligned)*
 
 <p align="left">
 
@@ -47,28 +47,25 @@
 
 </p>
 
-<!-- Removed the line below the section as requested -->
-
 ---
 
 # 🔧 Other Programming & ML Tools  
 
 <p align="left">
 
-<img src="./assets/icons/python.png" height="55" title="Python" />
-<img src="./assets/icons/cpp.png" height="55" title="C++" />
-<img src="./assets/icons/pytorch.png" height="55" title="PyTorch" />
-<img src="./assets/icons/scikit-learn.png" height="55" title="scikit-learn" />
-<img src="./assets/icons/git.png" height="55" title="Git" />
-<img src="./assets/icons/linux.png" height="55" title="Linux" />
-<img src="./assets/icons/jupyter.png" height="55" title="Jupyter Notebook" />
+<img src="./assets/icons/python.png" height="65" title="Python" />
+<img src="./assets/icons/cpp.png" height="65" title="C++" />
+<img src="./assets/icons/pytorch.png" height="65" title="PyTorch" />
+<img src="./assets/icons/scikit-learn.png" height="65" title="scikit-learn" />
+<img src="./assets/icons/git.png" height="65" title="Git" />
+<img src="./assets/icons/linux.png" height="65" title="Linux" />
+<img src="./assets/icons/jupyter.png" height="65" title="Jupyter Notebook" />
 
 </p>
 
 ---
 
 # 🏆 IBM Quantum Digital Badges  
-<!-- As requested, NO changes here -->
 
 <p align="left">
 
@@ -83,28 +80,58 @@
 # 🚀 Featured Quantum Projects  
 
 ### 🔹 **Fully Quantum Shor’s Algorithm (Qiskit)**  
-- Custom ME circuit blocks  
-- QFT-based period estimation  
-- Statevector vs noisy backend benchmarking  
+- Modular exponentiation blocks  
+- QFT period estimation  
+- Noisy vs ideal benchmarks  
 
 ---
 
 ### 🔹 **Quantum Galton Board (Normal + Biased + Fine-Grained)**  
 - Multi-layer QGB simulator  
-- Custom coin operators  
-- Target distribution shaping  
+- Distribution shaping  
+- Statistical distance evaluation  
 
 ---
 
 ### 🔹 **Hanbury Brown–Twiss Photon Correlation**  
-- Computed \( g^{(2)}(0) \)  
-- Verified photon antibunching  
+- Coincidence computation  
+- Antibunching verification  
 
 ---
 
 ### 🔹 **Quantum Reservoir Computing (QRC)**  
-- Hybrid QRC-PyTorch model  
-- HEP anomaly detection  
+- Hybrid quantum–classical model  
+- Time-series forecasting for HEP  
+
+---
+
+# 🌌 **3D Quantum Roadmap — Futuristic Timeline (Option 2)**  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/Quantum-Roadmap/main/roadmap_bar.gif" width="750" />
+</p>
+
+<div align="center">
+
+### 🔹 **2021–2022 — Foundations**  
+Linear algebra • Quantum Mechanics • Python • Math  
+
+### 🔹 **2022–2023 — Quantum Programming**  
+Qiskit • Cirq • Pennylane • QuTiP  
+
+### 🔹 **2023–2024 — Algorithms & Variational Methods**  
+QAOA • VQE • Grover • Shor  
+
+### 🔹 **2024 — Machine Learning & QML**  
+PyTorch • QNNs • Quantum kernels  
+
+### 🔹 **2024–2025 — Quantum Systems & Experimentation**  
+HBT setup • g²(0) measurement • QuTools hardware  
+
+### 🔹 **2025 — Research & Advanced Quantum Computing**  
+Quantum Reservoir Computing • CUDA-Q • Hybrid models  
+
+</div>
 
 ---
 
@@ -117,4 +144,5 @@
 ---
 
 <h2 align="center" style="color:#00E7FF;"><em>⚛️ “Building the future, one quantum circuit at a time.” ⚛️</em></h2>
+
 
