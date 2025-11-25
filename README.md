@@ -64,11 +64,9 @@
 
 <p align="left">
 
-<img src="./assets/badges/badge_dev_essentials.png" width="110" />
-<img src="./assets/badges/badge_variational.png" width="110" />
-<img src="./assets/badges/badge_qml.png" width="110" />
-<img src="./assets/badges/badge_random.png" width="110" />
-<img src="./assets/badges/badge_algorithms.png" width="110" />
+<img src="./assets/badges/fqa.png" width="110" />
+<img src="./assets/badges/vda.png" width="110" />
+<img src="./assets/badges/qbf.png" width="110" />
 
 </p>
 
