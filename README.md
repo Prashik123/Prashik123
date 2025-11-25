@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Prashik N Somkuwar</h1>
+<h1 align="center">🌌 Prashik N Somkuwar</h1>
 <h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&no-bg=true&margin-w=10" alt="trophies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Quantum+Algorithms+%7C+QML+%7C+QAOA+%7C+CUDA-Q;Building+the+future%2C+one+qubit+at+a+time." />
 </p>
 
 ## 🌌 About Me  
