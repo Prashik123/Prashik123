@@ -9,7 +9,7 @@
 
 ### 🔭 About Me  
 - 🎓 M.Tech student in **Quantum Computing**, DIAT (DRDO), Pune  
-- 🧪 Working on **Quantum Algorithms, QAOA, Shor’s Algorithm, QML, Quantum Walks, QRC**  
+- 🧪 Working on **Quantum Algorithms, Quantum Machine learning**  
 - 🌱 Learning **CUDA-Q** & **Julia**  
 - 📫 Reach me at: **prashik_s@mt.iitr.ac.in**  
 - 📄 My Portfolio:  
