@@ -35,7 +35,7 @@
 <p align="left">
 
 <img src="./assets/icons/qiskit.png" width="80" title="Qiskit" />
-<img src="./assets/icons/pennylane.png" width="80" title="PennyLane" />
+<img src="./assets/icons/pennylane.jpeg" width="80" title="PennyLane" />
 <img src="./assets/icons/cirq.png" width="80" title="Cirq" />
 <img src="./assets/icons/cuda-q.jpeg" width="90" title="CUDA-Q" />
 <img src="./assets/icons/qutip.jpeg" width="75" title="QuTiP" />
