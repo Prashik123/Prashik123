@@ -37,9 +37,8 @@
 <img src="./assets/icons/qiskit.png" width="80" title="Qiskit" />
 <img src="./assets/icons/pennylane.png" width="80" title="PennyLane" />
 <img src="./assets/icons/cirq.png" width="80" title="Cirq" />
-<img src="./assets/icons/cudaq.png" width="90" title="CUDA-Q" />
-<img src="./assets/icons/qutip.png" width="75" title="QuTiP" />
-<img src="./assets/icons/qsharp.png" width="75" title="Q#" />
+<img src="./assets/icons/cuda-q.jpeg" width="90" title="CUDA-Q" />
+<img src="./assets/icons/qutip.jpeg" width="75" title="QuTiP" />
 
 </p>
 
@@ -52,7 +51,7 @@
 <img src="./assets/icons/python.png" width="55" title="Python" />
 <img src="./assets/icons/cpp.png" width="55" title="C++" />
 <img src="./assets/icons/pytorch.png" width="55" title="PyTorch" />
-<img src="./assets/icons/sklearn.png" width="55" title="scikit-learn" />
+<img src="./assets/icons/scikit-learn.png" width="55" title="scikit-learn" />
 <img src="./assets/icons/git.png" width="55" title="Git" />
 <img src="./assets/icons/linux.png" width="55" title="Linux" />
 <img src="./assets/icons/jupyter.png" width="55" title="Jupyter Notebook" />
