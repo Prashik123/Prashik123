@@ -65,7 +65,7 @@
 <p align="left">
 
 <img src="./assets/badges/fqa.png" width="110" />
-<img src="./assets/badges/vda.png" width="110" />
+<img src="./assets/badges/vad.png" width="110" />
 <img src="./assets/badges/qbf.png" width="110" />
 
 </p>
