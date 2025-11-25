@@ -1,19 +1,9 @@
-<!-- 🌟 NEON QUANTUM BANNER (No GIFs, No Downloads Needed) -->
-<h1 align="center">
-  <span style="font-size: 58px; color:#00eaff; text-shadow: 0 0 20px #00eaff;">
-    ⚛️ Prashik N Somkuwar
-  </span>
-</h1>
-
-<h3 align="center" style="color:#9be7ff; text-shadow: 0 0 10px #0099cc;">
-  Aspiring Quantum Computing Researcher • Quantum Software Developer
-</h3>
+<h1 align="center">👋 Hey there, I'm Prashik N Somkuwar</h1>
+<h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=8&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&no-bg=true&margin-w=10" alt="trophies"/>
 </p>
-
----
 
 ## 🌌 About Me  
 
