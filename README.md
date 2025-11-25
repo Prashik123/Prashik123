@@ -69,9 +69,9 @@
 
 <p align="left">
 
-<img src="./assets/badges/fqa.png" height = "200" width="150" />
-<img src="./assets/badges/vad.png" height = "200" width="150" />
-<img src="./assets/badges/qbf.png" height = "200" width="150" />
+<img src="./assets/badges/fqa.png" height = "180" width="120" />
+<img src="./assets/badges/vad.png" height = "180" width="120" />
+<img src="./assets/badges/qbf.png" height = "180" width="120" />
 
 </p>
 
