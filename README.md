@@ -126,10 +126,4 @@
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
 </div>
 
-
-# 📊 GitHub Statistics  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashik123&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashik123&layout=compact&theme=tokyonight" /></p>
-
-<h2 align="center" style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">⚛️ “Building the future, one quantum circuit at a time.” ⚛️</h2>
-
+![snake gif](https://github.com/Prashik123/Prashik123/blob/output/github-snake-dark.svg)
