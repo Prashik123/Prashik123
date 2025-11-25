@@ -1,3 +1,8 @@
+<!-- 🌌 NEON QUANTUM BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E7FF&center=true&vCenter=true&width=700&lines=Prashik+N+Somkuwar;Quantum+Computing+Researcher;Quantum+Software+Developer;QAOA+%7C+QML+%7C+Shor's+Algorithm+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time" />
+</p>
+
 <h1 align="center">👋 Hey there, I'm <strong>Prashik N Somkuwar</strong></h1>
 <h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
 
@@ -7,19 +12,19 @@
 
 ---
 
-## 🌌 About Me
+## 🌌 About Me  
 
-🎓 M.Tech in **Quantum Computing**, DIAT (DRDO)  
+🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune  
 🔭 Focus Areas: **Quantum Algorithms, QAOA, QML, Shor’s Algorithm, Quantum Walks, Quantum Reservoir Computing**  
 🧪 Hands-on with **Qiskit, PennyLane, Cirq, CUDA-Q, QuTiP**  
-🌱 Currently learning **CUDA-Q & Julia**  
-📫 Reach me at **prashik_s@mt.iitr.ac.in**  
-📁 Portfolio & Resume:  
-👉 [Google Drive – Projects & CV](https://drive.google.com/drive/folders/1fq0HCQyhQqE3LFD7OWy-MeEW0QIxBVnW?usp=drive_link)
+🌱 Learning **CUDA-Q & Julia**  
+📫 Email: **prashik_s@mt.iitr.ac.in**  
+📁 Portfolio:  
+👉 [Google Drive – Projects & Resume](https://drive.google.com/drive/folders/1fq0HCQyhQqE3LFD7OWy-MeEW0QIxBVnW)
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prashik-somkuwar-9683031b5/">
@@ -30,37 +35,40 @@
 ---
 
 # 🧠 Quantum Software Stack  
-*(Only dedicated quantum development frameworks)*
+*(Dedicated quantum development frameworks — icons aligned)*
 
 <p align="left">
 
-<img src="./assets/icons/qiskit.png" width="80" title="Qiskit" />
-<img src="./assets/icons/pennylane.jpeg" width="80" title="PennyLane" />
-<img src="./assets/icons/cirq.png" width="80" title="Cirq" />
-<img src="./assets/icons/cuda-q.jpeg" width="90" title="CUDA-Q" />
-<img src="./assets/icons/qutip.jpeg" width="75" title="QuTiP" />
+<img src="./assets/icons/qiskit.png" height="70" title="Qiskit" />
+<img src="./assets/icons/pennylane.jpeg" height="70" title="PennyLane" />
+<img src="./assets/icons/cirq.png" height="70" title="Cirq" />
+<img src="./assets/icons/cuda-q.jpeg" height="70" title="CUDA-Q" />
+<img src="./assets/icons/qutip.jpeg" height="70" title="QuTiP" />
+
+</p>
+
+<!-- Removed the line below the section as requested -->
+
+---
+
+# 🔧 Other Programming & ML Tools  
+
+<p align="left">
+
+<img src="./assets/icons/python.png" height="55" title="Python" />
+<img src="./assets/icons/cpp.png" height="55" title="C++" />
+<img src="./assets/icons/pytorch.png" height="55" title="PyTorch" />
+<img src="./assets/icons/scikit-learn.png" height="55" title="scikit-learn" />
+<img src="./assets/icons/git.png" height="55" title="Git" />
+<img src="./assets/icons/linux.png" height="55" title="Linux" />
+<img src="./assets/icons/jupyter.png" height="55" title="Jupyter Notebook" />
 
 </p>
 
 ---
 
-# 🔧 Other Programming & ML Tools
-
-<p align="left">
-
-<img src="./assets/icons/python.png" width="55" title="Python" />
-<img src="./assets/icons/cpp.png" width="55" title="C++" />
-<img src="./assets/icons/pytorch.png" width="55" title="PyTorch" />
-<img src="./assets/icons/scikit-learn.png" width="55" title="scikit-learn" />
-<img src="./assets/icons/git.png" width="55" title="Git" />
-<img src="./assets/icons/linux.png" width="55" title="Linux" />
-<img src="./assets/icons/jupyter.png" width="55" title="Jupyter Notebook" />
-
-</p>
-
----
-
-# 🏆 IBM Quantum Digital Badges
+# 🏆 IBM Quantum Digital Badges  
+<!-- As requested, NO changes here -->
 
 <p align="left">
 
@@ -72,35 +80,35 @@
 
 ---
 
-# 🚀 Featured Quantum Projects
+# 🚀 Featured Quantum Projects  
 
 ### 🔹 **Fully Quantum Shor’s Algorithm (Qiskit)**  
-- Built modular exponentiation blocks from scratch  
+- Custom ME circuit blocks  
 - QFT-based period estimation  
-- Compared noisy vs ideal simulators  
+- Statevector vs noisy backend benchmarking  
 
 ---
 
 ### 🔹 **Quantum Galton Board (Normal + Biased + Fine-Grained)**  
-- Controlled coin operators  
+- Multi-layer QGB simulator  
+- Custom coin operators  
 - Target distribution shaping  
-- Statistical distance evaluation  
 
 ---
 
-### 🔹 **Hanbury Brown–Twiss Experiment (Photon Correlation)**  
+### 🔹 **Hanbury Brown–Twiss Photon Correlation**  
 - Computed \( g^{(2)}(0) \)  
-- Verified antibunching behaviour  
+- Verified photon antibunching  
 
 ---
 
-### 🔹 **Quantum Reservoir Computing (QRC) for HEP Time Series**  
-- Hybrid classical–quantum memory model  
-- PyTorch + PennyLane implementation  
+### 🔹 **Quantum Reservoir Computing (QRC)**  
+- Hybrid QRC-PyTorch model  
+- HEP anomaly detection  
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Statistics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashik123&layout=compact&theme=tokyonight" />
@@ -108,5 +116,5 @@
 
 ---
 
-<h3 align="center"><em>“Building the future, one quantum circuit at a time.”</em></h3>
+<h2 align="center" style="color:#00E7FF;"><em>⚛️ “Building the future, one quantum circuit at a time.” ⚛️</em></h2>
 
