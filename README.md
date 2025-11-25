@@ -30,7 +30,7 @@
 <img src="./assets/icons/qiskit.png" height="40" width ="60"/>
 <img src="./assets/icons/pennylane.jpeg" height="40" width ="60"/>
 <img src="./assets/icons/cirq.png" height="40" width ="60"/>
-<img src="./assets/icons/cuda-q.jpeg" height="50" width ="60"/>
+<img src="./assets/icons/cuda-q.jpeg" height="70" width ="60"/>
 <img src="./assets/icons/qutip.jpeg" height="40" width ="60"/>
 </p>
 
