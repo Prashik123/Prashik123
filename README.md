@@ -52,9 +52,9 @@
 
 # 🏆 IBM Quantum Digital Badges  
 <p align="left">
-<img src="./assets/badges/fqa.png" height="120" width="150"/>
-<img src="./assets/badges/vad.png" height="120" width="150"/>
-<img src="./assets/badges/qbf.png" height="120" width="150"/>
+<img src="./assets/badges/fqa.png" height="100" width="120"/>
+<img src="./assets/badges/vad.png" height="100" width="120"/>
+<img src="./assets/badges/qbf.png" height="100" width="120"/>
 </p>
 
 
