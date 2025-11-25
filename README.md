@@ -35,7 +35,6 @@
 ---
 
 # 🧠 Quantum Software Stack  
-*(Quantum development frameworks — perfectly aligned)*
 
 <p align="left">
 
