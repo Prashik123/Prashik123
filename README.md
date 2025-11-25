@@ -72,9 +72,9 @@
 <!-- ❗ YOUR ORIGINAL ICON BLOCK KEPT EXACTLY -->
 
 <p align="left">
-<img src="./assets/badges/fqa.png" height="180" width ="120"/>
-<img src="./assets/badges/vad.png" height="180" width ="120"/>
-<img src="./assets/badges/qbf.png" height="180" width ="120"/>
+<img src="./assets/badges/fqa.png" height="150" width ="120"/>
+<img src="./assets/badges/vad.png" height="150" width ="120"/>
+<img src="./assets/badges/qbf.png" height="150" width ="120"/>
 </p>
 
 ---
