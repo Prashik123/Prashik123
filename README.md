@@ -25,23 +25,6 @@
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/prashik-somkuwar-9683031b5/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" />
-  </a>
-</p>
-
-
-<div align="center">
-  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
-</div>
-
-
 # 🧠 Quantum Software Stack  
 <p align="left">
 <img src="./assets/icons/qiskit.png" height="80"/>
@@ -120,3 +103,21 @@
 </div>
 
 ![snake gif](https://github.com/Prashik123/Prashik123/blob/output/github-snake-dark.svg)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/prashik-somkuwar-9683031b5/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" />
+  </a>
+</p>
+
+
+<div align="center">
+  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
+</div>
+
