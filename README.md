@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=700&lines=👋+Hola+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
 </p>
 
-<!-- ✧ FLOATING QUANTUM PARTICLES ✧ -->
-<p align="center" style="font-size:22px; color:#39d5ff;">
-  ∘✧₊˚⊹ Quantum • Particles • Floating • Around • You ⊹˚₊✧∘
-</p>
-<p align="center" style="font-size:25px; letter-spacing:6px;">
-  ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦  
-</p>
 
 <div align="center">
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
