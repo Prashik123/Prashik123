@@ -1,15 +1,10 @@
-<!-- ⚛️ Quantum Neon Wave Banner -->
+<!-- Quantum Neon Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/atom.svg" width="140" />
 </p>
 
-<h1 align="center" style="font-size: 48px; color:#00E7FF; text-shadow: 0 0 15px #00E7FF;">
-  ⚛️ Prashik N Somkuwar
-</h1>
-
-<h3 align="center" style="color:#8be9fd;">
-  Aspiring Quantum Computing Researcher • Quantum Software Developer
-</h3>
+<h1 align="center" style="font-size: 42px;">⚛️ Prashik N Somkuwar</h1>
+<h3 align="center">Aspiring Quantum Computing Researcher • Quantum Software Developer</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=15&no-bg=true" />
@@ -97,13 +92,7 @@
 
 ---
 
-# 🌌 **3D Quantum Roadmap — Floating Neon Cards (Option C)**  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/Quantum-Roadmap/main/roadmap_bar.gif" width="780">
-</p>
-
-<br>
+# 🌌 **3D Quantum Roadmap — Floating Neon Cards**  
 
 <div align="center">
 
@@ -111,21 +100,21 @@
 <tr>
 
 <td align="center" width="260">
-  <img src="https://i.imgur.com/TmQ3yPh.gif" width="80"><br>
+  <span style="font-size:50px;">🧬</span><br>
   <b>2021–2022</b><br>
   Foundations<br>
   <sub>LA • QM • Python</sub>
 </td>
 
 <td align="center" width="260">
-  <img src="https://i.imgur.com/OjGP4Sl.gif" width="80"><br>
+  <span style="font-size:50px;">💠</span><br>
   <b>2022–2023</b><br>
   Quantum Programming<br>
   <sub>Qiskit • Cirq • PennyLane</sub>
 </td>
 
 <td align="center" width="260">
-  <img src="https://i.imgur.com/KsGvB0B.gif" width="80"><br>
+  <span style="font-size:50px;">⚛️</span><br>
   <b>2023–2024</b><br>
   Variational Algorithms<br>
   <sub>QAOA • VQE</sub>
@@ -140,21 +129,21 @@
 <tr>
 
 <td align="center" width="260">
-  <img src="https://i.imgur.com/D2ZRyWu.gif" width="80"><br>
+  <span style="font-size:50px;">🧠</span><br>
   <b>2024</b><br>
   Quantum ML<br>
   <sub>QNNs • PyTorch</sub>
 </td>
 
 <td align="center" width="260">
-  <img src="https://i.imgur.com/7hbzU5n.gif" width="80"><br>
+  <span style="font-size:50px;">🔭</span><br>
   <b>2024–2025</b><br>
   Experimental QC<br>
   <sub>HBT • g²(0)</sub>
 </td>
 
 <td align="center" width="260">
-  <img src="https://i.imgur.com/UklpQ1z.gif" width="80"><br>
+  <span style="font-size:50px;">🚀</span><br>
   <b>2025</b><br>
   Advanced Research<br>
   <sub>QRC • CUDA-Q</sub>
@@ -176,7 +165,6 @@
 ---
 
 <h2 align="center" style="color:#00E7FF;"><em>⚛️ “Building the future, one quantum circuit at a time.” ⚛️</em></h2>
-
 
 
 
