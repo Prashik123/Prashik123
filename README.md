@@ -1,60 +1,14 @@
-<!-- 🌈 RAINBOW QUANTUM HEADER -->
-<h1 align="center">
-  <span style="
-      font-size: 60px;
-      font-weight: 700;
-      background: linear-gradient(
-        90deg,
-        #ff00ff,
-        #00eaff,
-        #7dff00,
-        #ffdd00,
-        #ff0099,
-        #00eaff
-      );
-      background-size: 400%;
-      -webkit-background-clip: text;
-      color: transparent;
-      animation: rainbowFlow 6s ease-in-out infinite;
-  ">
-    ⚛️ Prashik N Somkuwar
-  </span>
-</h1>
-
-<!-- Animated Subtitle (kept glowing + smooth fade) -->
-<h3 align="center">
-  <span style="
-      color:#d7f7ff;
-      font-size: 22px;
-      letter-spacing: 0.5px;
-      animation: glowPulse 2.5s ease-in-out infinite alternate, fadeIn 2s ease-in-out;
-      text-shadow: 0 0 10px #00eaff;
-  ">
-    Aspiring Quantum Computing Researcher • Quantum Software Developer
-  </span>
-</h3>
-
-<style>
-@keyframes rainbowFlow {
-  0% { background-position: 0%; }
-  50% { background-position: 200%; }
-  100% { background-position: 0%; }
-}
-
-@keyframes glowPulse {
-  from { text-shadow: 0 0 6px #00eaff; }
-  to   { text-shadow: 0 0 20px #00eaff; }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-8px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E7FF&center=true&vCenter=true&width=700&lines=👋+Hola+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
+</p>
 
 
+<!-- 🌌 NEON QUANTUM BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E7FF&center=true&vCenter=true&width=700&lines=👋+Hola+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
+</p>
 
----
+
 
 ## 🌌 About Me  
 
