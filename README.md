@@ -39,11 +39,11 @@
 
 <p align="left">
 
-<img src="./assets/icons/qiskit.png" height="70" title="Qiskit" />
-<img src="./assets/icons/pennylane.jpeg" height="70" title="PennyLane" />
-<img src="./assets/icons/cirq.png" height="70" title="Cirq" />
-<img src="./assets/icons/cuda-q.jpeg" height="70" title="CUDA-Q" />
-<img src="./assets/icons/qutip.jpeg" height="70" title="QuTiP" />
+<img src="./assets/icons/qiskit.png" height="80" title="Qiskit" />
+<img src="./assets/icons/pennylane.jpeg" height="80" title="PennyLane" />
+<img src="./assets/icons/cirq.png" height="80" title="Cirq" />
+<img src="./assets/icons/cuda-q.jpeg" height="80" title="CUDA-Q" />
+<img src="./assets/icons/qutip.jpeg" height="80" title="QuTiP" />
 
 </p>
 
@@ -53,13 +53,13 @@
 
 <p align="left">
 
-<img src="./assets/icons/python.png" height="70" title="Python" />
-<img src="./assets/icons/cpp.png" height="70" title="C++" />
-<img src="./assets/icons/pytorch.png" height="70" title="PyTorch" />
-<img src="./assets/icons/scikit-learn.png" height="70" title="scikit-learn" />
-<img src="./assets/icons/git.png" height="70" title="Git" />
-<img src="./assets/icons/linux.png" height="70" title="Linux" />
-<img src="./assets/icons/jupyter.png" height="70" title="Jupyter Notebook" />
+<img src="./assets/icons/python.png" height="80" title="Python" />
+<img src="./assets/icons/cpp.png" height="80" title="C++" />
+<img src="./assets/icons/pytorch.png" height="80" title="PyTorch" />
+<img src="./assets/icons/scikit-learn.png" height="80" title="scikit-learn" />
+<img src="./assets/icons/git.png" height="80" title="Git" />
+<img src="./assets/icons/linux.png" height="80" title="Linux" />
+<img src="./assets/icons/jupyter.png" height="80" title="Jupyter Notebook" />
 
 </p>
 
