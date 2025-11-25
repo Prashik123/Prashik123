@@ -27,11 +27,11 @@
 
 # 🧠 Quantum Software Stack  
 <p align="left">
-<img src="./assets/icons/qiskit.png" height="80" width ="80"/>
-<img src="./assets/icons/pennylane.jpeg" height="80" width ="80"/>
-<img src="./assets/icons/cirq.png" height="80" width ="80"/>
-<img src="./assets/icons/cuda-q.jpeg" height="80" width ="80"/>
-<img src="./assets/icons/qutip.jpeg" height="80" width ="80"/>
+<img src="./assets/icons/qiskit.png" height="40" width ="80"/>
+<img src="./assets/icons/pennylane.jpeg" height="40" width ="80"/>
+<img src="./assets/icons/cirq.png" height="40" width ="80"/>
+<img src="./assets/icons/cuda-q.jpeg" height="40" width ="80"/>
+<img src="./assets/icons/qutip.jpeg" height="40" width ="80"/>
 </p>
 
 
