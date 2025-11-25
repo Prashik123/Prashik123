@@ -93,17 +93,7 @@
 
 ---
 
-### 🔹 **Hanbury Brown–Twiss Photon Correlation**  
-- Coincidence computation  
-- Antibunching verification  
 
----
-
-### 🔹 **Quantum Reservoir Computing (QRC)**  
-- Hybrid quantum–classical model  
-- Time-series forecasting for HEP  
-
----
 
 # 🌌 **3D Quantum Roadmap — Futuristic Timeline (Option 2)**  
 
