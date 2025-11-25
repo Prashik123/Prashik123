@@ -63,24 +63,6 @@
 </div>
 
 
-# 🚀 Featured Quantum Projects  
-
-### 🔹 Fully Quantum Shor’s Algorithm  
-- Modular exponentiation blocks  
-- QFT period estimation  
-- Noisy vs ideal benchmarks  
-
----
-
-### 🔹 Quantum Galton Board  
-- Multi-layer QGB simulator  
-- Distribution shaping  
-- Statistical distance evaluation  
-
-
-<div align="center">
-  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
-</div>
 
 
 # 🌌 Quantum Roadmap — Neon Emoji Edition  
