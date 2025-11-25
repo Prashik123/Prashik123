@@ -1,6 +1,6 @@
 <!-- 🌌 TYPING BANNER (UNCHANGED) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=700&lines=👋+Hello+There,+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=700&lines=👋+Hello+There+,+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
 </p>
 
 
