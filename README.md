@@ -1,10 +1,15 @@
-<!-- ✨ 3D Rotating Atom Banner -->
+<!-- ⚛️ Quantum Neon Wave Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/9V3F4MB.gif" width="160" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 </p>
 
-<h1 align="center" style="font-size: 42px;">⚛️ Prashik N Somkuwar</h1>
-<h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
+<h1 align="center" style="font-size: 48px; color:#00E7FF; text-shadow: 0 0 15px #00E7FF;">
+  ⚛️ Prashik N Somkuwar
+</h1>
+
+<h3 align="center" style="color:#8be9fd;">
+  Aspiring Quantum Computing Researcher • Quantum Software Developer
+</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=15&no-bg=true" />
@@ -38,11 +43,11 @@
 
 <p align="left">
 
-<img src="https://i.imgur.com/cKdL9y2.png" height="80" title="Qiskit" />
-<img src="https://i.imgur.com/MSMhcqA.png" height="80" title="PennyLane" />
-<img src="https://i.imgur.com/DO2eiKa.png" height="80" title="Cirq" />
-<img src="https://i.imgur.com/Y6sj2qJ.png" height="80" title="CUDA-Q" />
-<img src="https://i.imgur.com/l3a2A9U.png" height="80" title="QuTiP" />
+<img src="./assets/icons/qiskit.png" height="80" title="Qiskit" />
+<img src="./assets/icons/pennylane.jpeg" height="80" title="PennyLane" />
+<img src="./assets/icons/cirq.png" height="80" title="Cirq" />
+<img src="./assets/icons/cuda-q.jpeg" height="80" title="CUDA-Q" />
+<img src="./assets/icons/qutip.jpeg" height="80" title="QuTiP" />
 
 </p>
 
@@ -52,13 +57,13 @@
 
 <p align="left">
 
-<img src="https://i.imgur.com/8Yw2DqB.png" height="80" title="Python" />
-<img src="https://i.imgur.com/V38dIUl.png" height="80" title="C++" />
-<img src="https://i.imgur.com/RvZk6Ch.png" height="80" title="PyTorch" />
-<img src="https://i.imgur.com/yH2uVZL.png" height="80" title="scikit-learn" />
-<img src="https://i.imgur.com/0JQ7eRv.png" height="80" title="Git" />
-<img src="https://i.imgur.com/3cL0XvA.png" height="80" title="Linux" />
-<img src="https://i.imgur.com/agPXO6p.png" height="80" title="Jupyter Notebook" />
+<img src="./assets/icons/python.png" height="80" title="Python" />
+<img src="./assets/icons/cpp.png" height="80" title="C++" />
+<img src="./assets/icons/pytorch.png" height="80" title="PyTorch" />
+<img src="./assets/icons/scikit-learn.png" height="80" title="scikit-learn" />
+<img src="./assets/icons/git.png" height="80" title="Git" />
+<img src="./assets/icons/linux.png" height="80" title="Linux" />
+<img src="./assets/icons/jupyter.png" height="80" title="Jupyter Notebook" />
 
 </p>
 
@@ -68,9 +73,9 @@
 
 <p align="left">
 
-<img src="https://i.imgur.com/6bJ2cTf.png" height="180" width="120" />
-<img src="https://i.imgur.com/jV7D67Q.png" height="180" width="120" />
-<img src="https://i.imgur.com/IpRgCHl.png" height="180" width="120" />
+<img src="./assets/badges/fqa.png" height="180" width="120" />
+<img src="./assets/badges/vad.png" height="180" width="120" />
+<img src="./assets/badges/qbf.png" height="180" width="120" />
 
 </p>
 
@@ -92,10 +97,10 @@
 
 ---
 
-# 🌌 **3D Quantum Roadmap — Floating Neon Cards (No Downloads Needed)**  
+# 🌌 **3D Quantum Roadmap — Floating Neon Cards (Option C)**  
 
 <p align="center">
-  <img src="https://i.imgur.com/xMggqJQ.gif" width="780">
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/Quantum-Roadmap/main/roadmap_bar.gif" width="780">
 </p>
 
 <br>
@@ -171,6 +176,7 @@
 ---
 
 <h2 align="center" style="color:#00E7FF;"><em>⚛️ “Building the future, one quantum circuit at a time.” ⚛️</em></h2>
+
 
 
 
