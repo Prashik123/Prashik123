@@ -1,9 +1,16 @@
-<h1 align="center">🌌 Prashik N Somkuwar</h1>
+<!-- 🌌 NEON QUANTUM BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E7FF&center=true&vCenter=true&width=700&lines=Prashik+N+Somkuwar;Quantum+Computing+Researcher;Quantum+Software+Developer;QAOA+%7C+QML+%7C+Shor's+Algorithm+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time" />
+</p>
+
+<h1 align="center">👋 Hey there, I'm <strong>Prashik N Somkuwar</strong></h1>
 <h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Quantum+Algorithms+%7C+QML+%7C+QAOA+%7C+CUDA-Q;Building+the+future%2C+one+qubit+at+a+time." />
+  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=15&no-bg=true" />
 </p>
+
+---
 
 ## 🌌 About Me  
 
