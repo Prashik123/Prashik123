@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E7FF&center=true&vCenter=true&width=700&lines=👋+Hola+I+am+Prashik+N+Somkuwar;An+aspiring+Quantum+Computing+Researcher;Quantum+Software+Contributor;Q+Stack+:+Qiskit+%7C+Pennylane+%7C+Cirq+%7C+CUDA-Q;Building+the+Future%2C+One+Qubit+at+a+Time"/>
 </p>
 
-<h1 align="center">👋 Hey there, I'm <strong>Prashik N Somkuwar</strong></h1>
-<h3 align="center">Aspiring Quantum Computing Researcher | Quantum Software Developer</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=15&no-bg=true" />
-</p>
 
 ---
 
