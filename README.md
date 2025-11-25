@@ -15,7 +15,7 @@
 ## 🌌 About Me  
 
 🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune  
-🔭 Focus Areas: **Quantum Algorithms, QAOA, Quantum Machine learning**  
+🔭 Focus Areas: **Quantum Algorithms, QAOA, Quantum Machine Learning**  
 🧪 Hands-on with **Qiskit, PennyLane, Cirq, CUDA-Q, QuTiP**  
 🌱 Learning **CUDA-Q & Julia**  
 📫 Email: **prashik_s@mt.iitr.ac.in**  
@@ -68,9 +68,9 @@
 
 <p align="left">
 
-<img src="./assets/badges/fqa.png" height = "180" width="120" />
-<img src="./assets/badges/vad.png" height = "180" width="120" />
-<img src="./assets/badges/qbf.png" height = "180" width="120" />
+<img src="./assets/badges/fqa.png" height="180" width="120" />
+<img src="./assets/badges/vad.png" height="180" width="120" />
+<img src="./assets/badges/qbf.png" height="180" width="120" />
 
 </p>
 
@@ -92,33 +92,71 @@
 
 ---
 
-
-
-# 🌌 **3D Quantum Roadmap — Futuristic Timeline (Option 2)**  
+# 🌌 **3D Quantum Roadmap — Floating Neon Cards (Option C)**  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/Quantum-Roadmap/main/roadmap_bar.gif" width="750" />
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/Quantum-Roadmap/main/roadmap_bar.gif" width="780">
 </p>
+
+<br>
 
 <div align="center">
 
-### 🔹 **2021–2022 — Foundations**  
-Linear algebra • Quantum Mechanics • Python • Math  
+<table>
+<tr>
 
-### 🔹 **2022–2023 — Quantum Programming**  
-Qiskit • Cirq • Pennylane • QuTiP  
+<td align="center" width="260">
+  <img src="https://i.imgur.com/TmQ3yPh.gif" width="80"><br>
+  <b>2021–2022</b><br>
+  Foundations<br>
+  <sub>LA • QM • Python</sub>
+</td>
 
-### 🔹 **2023–2024 — Algorithms & Variational Methods**  
-QAOA • VQE • Grover • Shor  
+<td align="center" width="260">
+  <img src="https://i.imgur.com/OjGP4Sl.gif" width="80"><br>
+  <b>2022–2023</b><br>
+  Quantum Programming<br>
+  <sub>Qiskit • Cirq • PennyLane</sub>
+</td>
 
-### 🔹 **2024 — Machine Learning & QML**  
-PyTorch • QNNs • Quantum kernels  
+<td align="center" width="260">
+  <img src="https://i.imgur.com/KsGvB0B.gif" width="80"><br>
+  <b>2023–2024</b><br>
+  Variational Algorithms<br>
+  <sub>QAOA • VQE</sub>
+</td>
 
-### 🔹 **2024–2025 — Quantum Systems & Experimentation**  
-HBT setup • g²(0) measurement • QuTools hardware  
+</tr>
+</table>
 
-### 🔹 **2025 — Research & Advanced Quantum Computing**  
-Quantum Reservoir Computing • CUDA-Q • Hybrid models  
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="260">
+  <img src="https://i.imgur.com/D2ZRyWu.gif" width="80"><br>
+  <b>2024</b><br>
+  Quantum ML<br>
+  <sub>QNNs • PyTorch</sub>
+</td>
+
+<td align="center" width="260">
+  <img src="https://i.imgur.com/7hbzU5n.gif" width="80"><br>
+  <b>2024–2025</b><br>
+  Experimental QC<br>
+  <sub>HBT • g²(0)</sub>
+</td>
+
+<td align="center" width="260">
+  <img src="https://i.imgur.com/UklpQ1z.gif" width="80"><br>
+  <b>2025</b><br>
+  Advanced Research<br>
+  <sub>QRC • CUDA-Q</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
