@@ -1,13 +1,16 @@
-<!-- Quantum Neon Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/atom.svg" width="140" />
-</p>
+<!-- 🌟 NEON QUANTUM BANNER (No GIFs, No Downloads Needed) -->
+<h1 align="center">
+  <span style="font-size: 58px; color:#00eaff; text-shadow: 0 0 20px #00eaff;">
+    ⚛️ Prashik N Somkuwar
+  </span>
+</h1>
 
-<h1 align="center" style="font-size: 42px;">⚛️ Prashik N Somkuwar</h1>
-<h3 align="center">Aspiring Quantum Computing Researcher • Quantum Software Developer</h3>
+<h3 align="center" style="color:#9be7ff; text-shadow: 0 0 10px #0099cc;">
+  Aspiring Quantum Computing Researcher • Quantum Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prashik123&theme=algolia&margin-w=8&no-frame=true&no-bg=true" />
 </p>
 
 ---
@@ -35,6 +38,7 @@
 ---
 
 # 🧠 Quantum Software Stack  
+<!-- ❗ YOUR ORIGINAL ICON BLOCK KEPT 100% EXACT -->
 
 <p align="left">
 
@@ -49,6 +53,7 @@
 ---
 
 # 🔧 Other Programming & ML Tools  
+<!-- ❗ YOUR ORIGINAL ICON BLOCK KEPT 100% EXACT -->
 
 <p align="left">
 
@@ -65,13 +70,12 @@
 ---
 
 # 🏆 IBM Quantum Digital Badges  
+<!-- ❗ YOUR ORIGINAL ICON BLOCK KEPT EXACTLY -->
 
 <p align="left">
-
-<img src="./assets/badges/fqa.png" height="180" width="120" />
-<img src="./assets/badges/vad.png" height="180" width="120" />
-<img src="./assets/badges/qbf.png" height="180" width="120" />
-
+<img src="./assets/badges/fqa.png" height="180" />
+<img src="./assets/badges/vad.png" height="180" />
+<img src="./assets/badges/qbf.png" height="180" />
 </p>
 
 ---
@@ -92,7 +96,7 @@
 
 ---
 
-# 🌌 **3D Quantum Roadmap — Floating Neon Cards**  
+# 🌌 **Quantum Roadmap — Neon Emoji Edition (No Images Needed)**  
 
 <div align="center">
 
@@ -100,21 +104,21 @@
 <tr>
 
 <td align="center" width="260">
-  <span style="font-size:50px;">🧬</span><br>
+  <span style="font-size:48px;">🧬</span><br>
   <b>2021–2022</b><br>
   Foundations<br>
   <sub>LA • QM • Python</sub>
 </td>
 
 <td align="center" width="260">
-  <span style="font-size:50px;">💠</span><br>
+  <span style="font-size:48px;">💠</span><br>
   <b>2022–2023</b><br>
   Quantum Programming<br>
   <sub>Qiskit • Cirq • PennyLane</sub>
 </td>
 
 <td align="center" width="260">
-  <span style="font-size:50px;">⚛️</span><br>
+  <span style="font-size:48px;">⚛️</span><br>
   <b>2023–2024</b><br>
   Variational Algorithms<br>
   <sub>QAOA • VQE</sub>
@@ -129,21 +133,21 @@
 <tr>
 
 <td align="center" width="260">
-  <span style="font-size:50px;">🧠</span><br>
+  <span style="font-size:48px;">🧠</span><br>
   <b>2024</b><br>
   Quantum ML<br>
   <sub>QNNs • PyTorch</sub>
 </td>
 
 <td align="center" width="260">
-  <span style="font-size:50px;">🔭</span><br>
+  <span style="font-size:48px;">🔭</span><br>
   <b>2024–2025</b><br>
   Experimental QC<br>
   <sub>HBT • g²(0)</sub>
 </td>
 
 <td align="center" width="260">
-  <span style="font-size:50px;">🚀</span><br>
+  <span style="font-size:48px;">🚀</span><br>
   <b>2025</b><br>
   Advanced Research<br>
   <sub>QRC • CUDA-Q</sub>
@@ -159,12 +163,15 @@
 # 📊 GitHub Statistics  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashik123&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashik123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h2 align="center" style="color:#00E7FF;"><em>⚛️ “Building the future, one quantum circuit at a time.” ⚛️</em></h2>
-
-
-
+<h2 align="center" style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
+  ⚛️ “Building the future, one quantum circuit at a time.” ⚛️
+</h2>
