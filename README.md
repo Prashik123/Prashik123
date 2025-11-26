@@ -99,8 +99,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-<!-- < img align = "left"  src="https://raw.githubusercontent.com/prashik123/prashik123/master/profile-summary-card-output/default/2-most-commit-language.svg"/> --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=donut)](https://github.com/Prashik123/github-readme-stats)
 
 
 
