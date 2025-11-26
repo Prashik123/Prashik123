@@ -92,12 +92,19 @@
 
 ![snake gif](https://github.com/Prashik123/Prashik123/blob/output/github-snake-dark.svg)
 
+<div align="center">
+  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
+</div>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
+</div>
 
 
 
