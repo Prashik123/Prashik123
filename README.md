@@ -11,12 +11,12 @@
 
 ## 🌌 About Me  
 🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune <br>
-🎓 B.Tech in **Metallurgical and Materials Engineering**, IIT Roorkee, Uttarakhand
-🔭 Focus Areas: **Quantum Algorithms, QAOA, Quantum Machine Learning**  
-🧪 Hands-on with **Qiskit, PennyLane, Cirq, QuTiP**  
-🌱 Learning **CUDA-Q & Julia**  
-📫 Email: **prashik_s@mt.iitr.ac.in**  
-📁 Portfolio:  
+🎓 B.Tech in **Metallurgical and Materials Engineering**, IIT Roorkee, Uttarakhand <br>
+🔭 Focus Areas: **Quantum Algorithms, QAOA, Quantum Machine Learning** <br>
+🧪 Hands-on with **Qiskit, PennyLane, Cirq, QuTiP**  <br>
+🌱 Learning **CUDA-Q & Julia**  <br>
+📫 Email: **prashik_s@mt.iitr.ac.in**  <br>
+📁 Portfolio:  <br>
 👉 [Google Drive – Projects & Resume](https://drive.google.com/drive/folders/1fq0HCQyhQqE3LFD7OWy-MeEW0QIxBVnW)
 
 ## 🏆 GitHub Trophies
