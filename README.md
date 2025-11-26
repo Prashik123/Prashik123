@@ -25,6 +25,8 @@
   <hr style="border: 0; height: 1px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123)](https://github.com/Prashik123/github-readme-stats)
+
 # 🧠 Quantum Software Stack  
 <p align="left">
 <img src="./assets/icons/qiskit.png" height="60" width ="86"/>
