@@ -10,7 +10,8 @@
 
 
 ## 🌌 About Me  
-🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune  
+🎓 M.Tech in **Quantum Computing**, DIAT (DRDO), Pune 
+🎓 B.Tech in **Metallurgical and Materials Engineering**, IIT Roorkee, Uttarakhand
 🔭 Focus Areas: **Quantum Algorithms, QAOA, Quantum Machine Learning**  
 🧪 Hands-on with **Qiskit, PennyLane, Cirq, QuTiP**  
 🌱 Learning **CUDA-Q & Julia**  
