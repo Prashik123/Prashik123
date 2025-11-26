@@ -65,7 +65,7 @@
 
 
 
-# 🌌 Quantum Roadmap — Neon Emoji Edition  
+# 🌌 My Quantum Roadmap 
 <div align="center">
 
 <table><tr>
