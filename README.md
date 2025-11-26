@@ -99,7 +99,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=donut)](https://github.com/Prashik123/github-readme-stats)
+[![Top Languages](https://raw.githubusercontent.com/Prashik123/Prashik123/output/languages.svg)]()
 
 
 
