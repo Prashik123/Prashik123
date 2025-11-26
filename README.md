@@ -94,7 +94,7 @@
 
 
 
-< img align = "left"  src="https://raw.githubusercontent.com/prashik123/prashik123/master/profile-summary-card-output/default/2-most-commit-language.svg"/>
+<!-- < img align = "left"  src="https://raw.githubusercontent.com/prashik123/prashik123/master/profile-summary-card-output/default/2-most-commit-language.svg"/> --->
 
 
 
