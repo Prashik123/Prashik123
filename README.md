@@ -56,18 +56,6 @@
 </div>
 
 
-# 🏆 IBM Quantum Digital Badges  
-<p align="left">
-<img src="./assets/badges/qbf.png" height="110" width="110"/>
-<img src="./assets/badges/fqa.png" height="110" width="110"/>
-<img src="./assets/badges/vad.png" height="110" width="110"/>
-</p>
-
-
-<div align="center">
-  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
-</div>
-
 # 📊 GitHub Stats:
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="420"/>
@@ -75,6 +63,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350"/>
 </div>
 
+
+
+<div align="center">
+  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
+</div>
+
+# 🏆 IBM Quantum Digital Badges  
+<p align="left">
+<img src="./assets/badges/qbf.png" height="110" width="110"/>
+<img src="./assets/badges/fqa.png" height="110" width="110"/>
+<img src="./assets/badges/vad.png" height="110" width="110"/>
+</p>
 
 
 <div align="center">
