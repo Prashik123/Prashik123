@@ -69,8 +69,11 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="340"/>
+</div>
+
 
 <div align="center">
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
