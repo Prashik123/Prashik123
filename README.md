@@ -16,7 +16,7 @@
 🧪 Hands-on with **Qiskit, PennyLane, Cirq, QuTiP**  <br>
 🌱 Learning **CUDA-Q & Julia**  <br>
 📫 Email: **prashik_s@mt.iitr.ac.in**  <br>
-📁 Portfolio:  <br>
+<!-- 📁 Portfolio:  <br>  -->
 👉 Google Drive – [Projects & Resume](https://drive.google.com/drive/folders/1fq0HCQyhQqE3LFD7OWy-MeEW0QIxBVnW)
 
 <div align="center">
