@@ -69,7 +69,7 @@
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
 </div>
 
-# 🏆 IBM Quantum Digital Badges  
+# 🏆 IBM Quantum Digital Badges
 <p align="left">
 <img src="./assets/badges/qbf.png" height="110" width="110"/>
 <img src="./assets/badges/fqa.png" height="110" width="110"/>
