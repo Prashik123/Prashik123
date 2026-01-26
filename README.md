@@ -24,9 +24,8 @@
 </div>
 
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prashik123&theme=onedark)
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=Prashik123&theme=onedark" />
 
 
 <div align="center">
