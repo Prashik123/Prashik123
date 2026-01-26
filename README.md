@@ -96,7 +96,7 @@
 <div align="center">
 
 <table><tr>
-<td align="center" width="260">🧬<br><b>2021–2022</b><br>Foundations<br><sub>LA • QM • Python</sub></td>
+<td align="center" width="260">🧬<br><b>2021–2022</b><br>Foundations<br><sub>Linear Algebra • QM • Python</sub></td>
 <td align="center" width="260">💠<br><b>2022–2023</b><br>Quantum Programming<br><sub>Qiskit • Cirq • PennyLane</sub></td>
 <td align="center" width="260">⚛️<br><b>2023–2024</b><br>Variational Algorithms<br><sub>QAOA • VQE</sub></td>
 </tr></table>
@@ -104,9 +104,9 @@
 <br>
 
 <table><tr>
-<td align="center" width="260">🧠<br><b>2024</b><br>Quantum ML<br><sub>QNNs • PyTorch</sub></td>
-<td align="center" width="260">🔭<br><b>2024–2025</b><br>Experimental QC<br><sub>HBT • g²(0)</sub></td>
-<td align="center" width="260">🚀<br><b>2025</b><br>Advanced Research<br><sub>QRC • CUDA-Q</sub></td>
+<td align="center" width="260">🧠<br><b>2024</b><br>Quantum ML<br><sub>Classical ML • PyTorch</sub></td>
+<td align="center" width="260">🔭<br><b>2024–2025</b><br>Experimental QC<br><sub>Optical Instruments • QuTiP </sub></td>
+<td align="center" width="260">🚀<br><b>2025-2026</b><br>Advanced Research<br><sub>Quantum Algo dev • CUDA-Q</sub></td>
 </tr></table>
 
 </div>
