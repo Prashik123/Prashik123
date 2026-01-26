@@ -25,7 +25,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prashik123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prashik123&theme=onedark)
+
 
 <div align="center">
   <hr style="border: 0; height: 1px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
