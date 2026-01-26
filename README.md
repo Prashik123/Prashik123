@@ -104,9 +104,9 @@
 <br>
 
 <table><tr>
-<td align="center" width="260">🧠<br><b>2024</b><br>Quantum ML<br><sub>Classical ML • PyTorch</sub></td>
-<td align="center" width="260">🔭<br><b>2024–2025</b><br>Experimental QC<br><sub>Optical Instruments • QuTiP </sub></td>
-<td align="center" width="260">🚀<br><b>2025-2026</b><br>Advanced Research<br><sub>Quantum Algo dev • CUDA-Q</sub></td>
+<td align="center" width="260">🧠<br><b>2024-2025</b><br>Quantum ML<br><sub>Classical ML • PyTorch</sub></td>
+<td align="center" width="260">🔭<br><b>2025–2026</b><br>Experimental QC<br><sub>Optical Instruments • QuTiP </sub></td>
+<td align="center" width="260">🚀<br><b>2026</b><br>Advanced Research<br><sub>Quantum Algo dev • CUDA-Q</sub></td>
 </tr></table>
 
 </div>
