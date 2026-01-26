@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prashik123&theme=onedark&cacheBust=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prashik123&theme=onedark&column=6)
 
 
 
