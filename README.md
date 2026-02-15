@@ -60,13 +60,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&v=2" 
+    height="165"
+  />
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prashik123&theme=ambient_gradient&hide_border=true" height="165" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=10&count_private=true&v=2" 
+    height="165"
+  />
 </p>
 
 
