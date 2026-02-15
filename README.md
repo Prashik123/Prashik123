@@ -67,7 +67,6 @@
 </div>
 
 
-correct this mardown code so that it will fetch the real data from my github and show it without delay
 
 
 <div align="center">
