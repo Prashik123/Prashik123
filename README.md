@@ -33,10 +33,6 @@
 
 --->
 
-
----
-
-
 # 🧠 Quantum Software Stack  
 <p align="left">
 <img src="./assets/icons/qiskit.png" height="60" width ="86"/>
