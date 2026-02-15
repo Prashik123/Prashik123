@@ -57,21 +57,21 @@
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
 </div>
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-azure.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" 
     height="165"
   />
   
   <img 
-    src="https://github-readme-azure.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=10&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=10&count_private=true" 
     height="165"
   />
 </p>
-
-
 
 
 
