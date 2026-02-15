@@ -58,13 +58,28 @@
 </div>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="420"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350"/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=false&cache_seconds=1800" 
+  height="165"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=false&cache_seconds=1800" 
+  height="165"
+/>
+
 </div>
 
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Prashik123&theme=ambient_gradient&hide_border=false&cache_seconds=1800" 
+  height="165"
+/>
 
 
 <div align="center">
