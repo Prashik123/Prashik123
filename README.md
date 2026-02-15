@@ -60,26 +60,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=false&cache_seconds=600" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=false&cache_seconds=600" height="170" />
+</p>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=ambient_gradient&hide_border=false&cache_seconds=1800" 
-  height="165"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=ambient_gradient&hide_border=false&cache_seconds=1800" 
-  height="165"
-/>
-
-</div>
-
-<br/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=Prashik123&theme=ambient_gradient&hide_border=false&cache_seconds=1800" 
-  height="165"
-/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Prashik123&theme=ambient_gradient&hide_border=false&cache_seconds=600" height="170" />
+</p>
 
 
 <div align="center">
