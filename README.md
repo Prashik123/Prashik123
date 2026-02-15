@@ -63,8 +63,7 @@
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="420"/>
   &nbsp;&nbsp;&nbsp;
-  ![Prashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
