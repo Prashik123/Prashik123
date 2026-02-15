@@ -24,19 +24,17 @@
 </div>
 
 
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=Prashik123&theme=onedark&column=6&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
----
+--->
 
 
 ---
-
-
--->
 
 
 # 🧠 Quantum Software Stack  
