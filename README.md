@@ -63,7 +63,7 @@
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="420"/>
   &nbsp;&nbsp;&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact)
 </div>
 
 
