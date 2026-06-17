@@ -60,10 +60,9 @@
 
 
 # 📊 GitHub Stats:
+
 <div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="420"/>
-  &nbsp;&nbsp;&nbsp;
- 
+  <img src="https://streak-stats.demolab.com/?user=Prashik123&theme=ambient_gradient&hide_border=false" width="420" alt="GitHub Streak Stats" />
 </div>
 
 
