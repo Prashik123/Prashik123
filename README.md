@@ -24,8 +24,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Prashik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prashik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="38%" />
 </p>
 
 # 🧠 Quantum Software Stack  
