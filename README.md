@@ -28,6 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" width="38%" />
 </p>
 
+<div align="center">
+  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
+</div>
+
 # 🧠 Quantum Software Stack  
 <p align="left">
 <img src="./assets/icons/qiskit.png" height="60" width ="86"/>
