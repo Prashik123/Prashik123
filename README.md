@@ -21,14 +21,11 @@
   <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
 </div>
 
-# Github Analytics
+# GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/Prashik123">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prashik's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Prashik123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prashik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
