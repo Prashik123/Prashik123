@@ -24,12 +24,8 @@
 # GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashik123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prashik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashik123&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <hr style="border: 0; height: 2px; width: 80%; background: linear-gradient(90deg,#00eaff,#7df9ff,#00eaff); box-shadow: 0 0 12px #00eaff;">
+  <img src="https://github-stats-extended.vercel.app/api?username=Prashik123&show_icons=true&theme=radical&hide_border=true" alt="Prashik's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Prashik123&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
 </div>
 
 # Quantum Software Stack  
